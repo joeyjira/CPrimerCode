@@ -1,4 +1,8 @@
 #include <iostream>
+/*
+ * Simple main function:
+ * Read two numbers and write their sum
+ */
 int main() {
   std::cout << "Enter two numbers:" << std::endl;
   int v1 = 0, v2 = 0;
